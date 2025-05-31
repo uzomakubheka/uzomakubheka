@@ -1,7 +1,5 @@
-##👋Hi, i'm Uzoma!
-
 <!--
-**uzomakubheka/uzomakubheka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋Hi, i'm Uzoma!
 
 👩🏾‍💻 Software Engineering student with a passion for problem-solving.
 🌍 Exploring different areas of development to sharpen my skills and find my focus
