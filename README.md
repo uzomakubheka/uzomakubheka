@@ -1,4 +1,3 @@
-<!--
 ### 👋Hi, i'm Uzoma!
 
 👩🏾‍💻 Software Engineering student with a passion for problem-solving.
